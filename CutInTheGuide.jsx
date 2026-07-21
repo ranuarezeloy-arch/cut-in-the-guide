@@ -1,7 +1,6 @@
 // ============================================================
 // SLICE IMAGE BY HORIZONTAL & VERTICAL GUIDES (GRID CUT)
 // ============================================================
-
 #target photoshop
 
 function main() {
