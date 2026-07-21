@@ -32,7 +32,6 @@ If you just want to run the script once or test it out:
 1. Open Photoshop.
 2. Go to **File > Scripts > Browse...** (or press `Ctrl + F12` on Windows / `Cmd + F12` on macOS).
 3. Select the `.jsx` script file.
-<img width="800" height="430" alt="Image" src="https://github.com/user-attachments/assets/c323f4a9-8ac6-44ae-856c-fb41b6efd407" />
 ---
 
 ## 📋 How to Use
@@ -40,6 +39,8 @@ If you just want to run the script once or test it out:
 1. [Step 1: Open a document or prepare your files].
 2. Launch the script via **File > Scripts > [CutInTheGuide]**.
 3. [Step 3: Follow any on-screen prompts or wait for the process to complete].
+
+ <img width="800" height="430" alt="Image" src="https://github.com/user-attachments/assets/c323f4a9-8ac6-44ae-856c-fb41b6efd407" />
 
 ---
 
